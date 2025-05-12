@@ -11,7 +11,7 @@ namespace BibliotecaFinalParadigmas.Clases
         private static byte contadorIDs = 1;
         private static byte id;
 
-        //Reglas de negocio
+        //Atributos de control
         private readonly byte longitudMinimaNombre = 5, longitudTelefono = 10;
         private readonly char caracterInicialTelefono = '3';
 
@@ -31,7 +31,7 @@ namespace BibliotecaFinalParadigmas.Clases
         //Accesores
         public static byte Id { get => id; }
         public string? Nombre { get => nombre; 
-            set => nombre = !(String.IsNullOrEmpty(value)) && !(String.IsNullOrWhiteSpace(value)) && value.Length > longitudMinimaNombre ? value : throw new Exception($"Error: el nombre debe tener una longitud de más de {longitudMinimaNombre} carácteres"); }
+            set => nombre = !(String.IsNullOrEmpty(value)) && !(String.IsNullOrWhiteSpace(value)) && value.Length > longitudMinimaNombre ? value : throw new Exception($"Error: el nombre de la persona debe tener una longitud de más de {longitudMinimaNombre} carácteres"); }
 
         public string? Telefono { get => telefono; 
             set => telefono = !(String.IsNullOrEmpty(value)) && !(String.IsNullOrWhiteSpace(value)) && value.Length == 10 && value.StartsWith(caracterInicialTelefono) && value.All(char.IsDigit) ? value : throw new Exception($"Error: el telefono solo puede contener números, debe comenzar en {caracterInicialTelefono} y tener una longitud de {longitudTelefono} caracteres"); }

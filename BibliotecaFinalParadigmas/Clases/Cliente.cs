@@ -13,5 +13,19 @@ namespace BibliotecaFinalParadigmas.Clases
 
         //Atributos de métodos
         private uint saldoEnDeuda;
+
+        //Constructor
+        public Cliente(string nombre, string telefono, bool credito) : base(nombre, telefono)
+        {
+            Credito = credito;
+
+            if (credito)
+            {
+                saldoEnDeuda = 0;
+            }
+        }
+
+        //Accesores
+        public bool Credito { get => credito; set => credito = value; }
     }
 }
