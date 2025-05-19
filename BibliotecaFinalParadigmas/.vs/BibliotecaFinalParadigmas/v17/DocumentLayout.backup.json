@@ -34,60 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Carro.cs",
-              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\FinalParadigmas\\BibliotecaFinalParadigmas\\Clases\\Carro.cs",
-              "RelativeDocumentMoniker": "Clases\\Carro.cs",
-              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\FinalParadigmas\\BibliotecaFinalParadigmas\\Clases\\Carro.cs",
-              "RelativeToolTip": "Clases\\Carro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T15:43:29.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Repuesto.cs",
-              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\FinalParadigmas\\BibliotecaFinalParadigmas\\Clases\\Repuesto.cs",
-              "RelativeDocumentMoniker": "Clases\\Repuesto.cs",
-              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\FinalParadigmas\\BibliotecaFinalParadigmas\\Clases\\Repuesto.cs",
-              "RelativeToolTip": "Clases\\Repuesto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T15:36:34.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Mecanico.cs",
-              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\FinalParadigmas\\BibliotecaFinalParadigmas\\Clases\\Mecanico.cs",
-              "RelativeDocumentMoniker": "Clases\\Mecanico.cs",
-              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\FinalParadigmas\\BibliotecaFinalParadigmas\\Clases\\Mecanico.cs",
-              "RelativeToolTip": "Clases\\Mecanico.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAADZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T15:27:33.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\FinalParadigmas\\BibliotecaFinalParadigmas\\Clases\\Cliente.cs",
-              "RelativeDocumentMoniker": "Clases\\Cliente.cs",
-              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\FinalParadigmas\\BibliotecaFinalParadigmas\\Clases\\Cliente.cs",
-              "RelativeToolTip": "Clases\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T21:48:19.114Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
@@ -106,6 +54,55 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\FinalParadigmas\\BibliotecaFinalParadigmas\\Clases\\Carro.cs",
+              "RelativeDocumentMoniker": "Clases\\Carro.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\FinalParadigmas\\BibliotecaFinalParadigmas\\Clases\\Carro.cs",
+              "RelativeToolTip": "Clases\\Carro.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:43:29.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repuesto.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\FinalParadigmas\\BibliotecaFinalParadigmas\\Clases\\Repuesto.cs",
+              "RelativeDocumentMoniker": "Clases\\Repuesto.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\FinalParadigmas\\BibliotecaFinalParadigmas\\Clases\\Repuesto.cs",
+              "RelativeToolTip": "Clases\\Repuesto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:36:34.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mecanico.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\FinalParadigmas\\BibliotecaFinalParadigmas\\Clases\\Mecanico.cs",
+              "RelativeDocumentMoniker": "Clases\\Mecanico.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\FinalParadigmas\\BibliotecaFinalParadigmas\\Clases\\Mecanico.cs",
+              "RelativeToolTip": "Clases\\Mecanico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAADZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:27:33.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\FinalParadigmas\\BibliotecaFinalParadigmas\\Clases\\Cliente.cs",
+              "RelativeDocumentMoniker": "Clases\\Cliente.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\FinalParadigmas\\BibliotecaFinalParadigmas\\Clases\\Cliente.cs",
+              "RelativeToolTip": "Clases\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T21:48:19.114Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\FinalParadigmas\\BibliotecaFinalParadigmas\\Clases\\Persona.cs",
@@ -114,8 +111,7 @@
               "RelativeToolTip": "Clases\\Persona.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwCEAAADIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T21:10:10.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T21:10:10.071Z"
             },
             {
               "$type": "Document",
