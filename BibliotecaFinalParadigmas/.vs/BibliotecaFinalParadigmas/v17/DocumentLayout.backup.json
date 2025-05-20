@@ -1,29 +1,28 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "WorkspaceRootPath": "C:\\Users\\pjgom\\OneDrive\\Desktop\\FinalParadigmas\\BibliotecaFinalParadigmas\\",
-  "Documents": [],
-=======
   "WorkspaceRootPath": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\BibliotecaFinalParadigmas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|c:\\users\\zyroc\\onedrive\\escritorio\\final-paradigmas\\bibliotecafinalparadigmas\\publishers\\publisher_salidacarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|solutionrelative:publishers\\publisher_salidacarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|c:\\users\\zyroc\\onedrive\\escritorio\\final-paradigmas\\bibliotecafinalparadigmas\\clases\\mantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|solutionrelative:clases\\mantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|c:\\users\\zyroc\\onedrive\\escritorio\\final-paradigmas\\bibliotecafinalparadigmas\\publishers\\publisher_factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|solutionrelative:publishers\\publisher_factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|c:\\users\\zyroc\\onedrive\\escritorio\\final-paradigmas\\bibliotecafinalparadigmas\\clases\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|solutionrelative:clases\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|c:\\users\\zyroc\\onedrive\\escritorio\\final-paradigmas\\bibliotecafinalparadigmas\\publishers\\publisher_ingresocarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|solutionrelative:publishers\\publisher_ingresocarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|c:\\users\\zyroc\\onedrive\\escritorio\\final-paradigmas\\bibliotecafinalparadigmas\\clases\\trabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|solutionrelative:clases\\trabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|c:\\users\\zyroc\\onedrive\\escritorio\\final-paradigmas\\bibliotecafinalparadigmas\\publishers\\publisher_salidacarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|solutionrelative:publishers\\publisher_salidacarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
->>>>>>> e1bcf077c5ad3f45c363d867a34e77868686e32e
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -31,29 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mantenimiento.cs",
+              "DocumentMoniker": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\BibliotecaFinalParadigmas\\Clases\\Mantenimiento.cs",
+              "RelativeDocumentMoniker": "Clases\\Mantenimiento.cs",
+              "ToolTip": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\BibliotecaFinalParadigmas\\Clases\\Mantenimiento.cs",
+              "RelativeToolTip": "Clases\\Mantenimiento.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwEYAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T20:35:46.294Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Publisher_IngresoCarro.cs",
+              "DocumentMoniker": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\BibliotecaFinalParadigmas\\Publishers\\Publisher_IngresoCarro.cs",
+              "RelativeDocumentMoniker": "Publishers\\Publisher_IngresoCarro.cs",
+              "ToolTip": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\BibliotecaFinalParadigmas\\Publishers\\Publisher_IngresoCarro.cs",
+              "RelativeToolTip": "Publishers\\Publisher_IngresoCarro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T16:20:26.396Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-<<<<<<< HEAD
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-=======
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Publisher_Factura.cs",
@@ -61,50 +68,45 @@
               "RelativeDocumentMoniker": "Publishers\\Publisher_Factura.cs",
               "ToolTip": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\BibliotecaFinalParadigmas\\Publishers\\Publisher_Factura.cs",
               "RelativeToolTip": "Publishers\\Publisher_Factura.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T16:27:11.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Publisher_SalidaCarro.cs",
-              "DocumentMoniker": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\BibliotecaFinalParadigmas\\Publishers\\Publisher_SalidaCarro.cs",
-              "RelativeDocumentMoniker": "Publishers\\Publisher_SalidaCarro.cs",
-              "ToolTip": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\BibliotecaFinalParadigmas\\Publishers\\Publisher_SalidaCarro.cs",
-              "RelativeToolTip": "Publishers\\Publisher_SalidaCarro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T16:23:56.563Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Publisher_IngresoCarro.cs",
-              "DocumentMoniker": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\BibliotecaFinalParadigmas\\Publishers\\Publisher_IngresoCarro.cs",
-              "RelativeDocumentMoniker": "Publishers\\Publisher_IngresoCarro.cs",
-              "ToolTip": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\BibliotecaFinalParadigmas\\Publishers\\Publisher_IngresoCarro.cs",
-              "RelativeToolTip": "Publishers\\Publisher_IngresoCarro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\BibliotecaFinalParadigmas\\Clases\\Factura.cs",
+              "RelativeDocumentMoniker": "Clases\\Factura.cs",
+              "ToolTip": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\BibliotecaFinalParadigmas\\Clases\\Factura.cs",
+              "RelativeToolTip": "Clases\\Factura.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T16:20:26.396Z",
+              "WhenOpened": "2025-05-20T20:44:17.181Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Trabajo.cs",
-              "DocumentMoniker": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\BibliotecaFinalParadigmas\\Clases\\Trabajo.cs",
-              "RelativeDocumentMoniker": "Clases\\Trabajo.cs",
-              "ToolTip": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\BibliotecaFinalParadigmas\\Clases\\Trabajo.cs",
-              "RelativeToolTip": "Clases\\Trabajo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Publisher_SalidaCarro.cs",
+              "DocumentMoniker": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\BibliotecaFinalParadigmas\\Publishers\\Publisher_SalidaCarro.cs",
+              "RelativeDocumentMoniker": "Publishers\\Publisher_SalidaCarro.cs",
+              "ToolTip": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\BibliotecaFinalParadigmas\\Publishers\\Publisher_SalidaCarro.cs",
+              "RelativeToolTip": "Publishers\\Publisher_SalidaCarro.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T16:19:03.37Z",
+              "WhenOpened": "2025-05-20T20:47:58.211Z",
               "EditorCaption": ""
->>>>>>> e1bcf077c5ad3f45c363d867a34e77868686e32e
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }

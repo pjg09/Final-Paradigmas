@@ -58,7 +58,7 @@ namespace BibliotecaFinalParadigmas.Clases
         //Métodos
         internal Factura EventHandler() 
         {
-            return new Factura(valorMantenimiento);
+            return new Factura(valorMantenimiento, carro);
         }
 
         public void FinalizarMantenimiento ()
@@ -68,7 +68,7 @@ namespace BibliotecaFinalParadigmas.Clases
                 finalizado = true;
                 notificacion_facturar = new Publisher_Factura();
                 notificacion_facturar.evento_facturacion += EventHandler;
-                notificacion_facturar.InformarFacturacion(valorMantenimiento, finalizado);
+                notificacion_facturar.InformarFacturacion(valorMantenimiento, finalizado, carro); 
                 notificacion_facturar.evento_facturacion -= EventHandler;
             }
             catch (Exception ex)

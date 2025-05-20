@@ -16,13 +16,13 @@ namespace BibliotecaFinalParadigmas.Publishers
         internal event delegado_facturacion evento_facturacion;
 
         //Métodos llamados por los publisher
-        public Factura InformarFacturacion (uint valorFactura, bool finalizado)
+        public Factura InformarFacturacion (uint valorFactura, bool finalizado, Carro carro)
         {
             if (evento_facturacion != null)
             {
                 if (finalizado)
                 {
-                    return new Factura(valorFactura);
+                    return new Factura(valorFactura, carro);
                 }
                 else
                 {

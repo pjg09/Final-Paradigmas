@@ -16,11 +16,11 @@ namespace BibliotecaFinalParadigmas.Publishers
         internal event delegado_salida evento_salida;
 
         //Metodo
-        public string InformarSalida(Carro carro, Factura factura) 
+        public string InformarSalida(Carro carro, bool pagada) 
         {
             if (evento_salida !=null)
             {
-                if (factura.Pagada)
+                if (pagada)
                 {
                     return $"Se le ha dado salida exitosamente al vehículo de placa {carro.Placa}";
                 }
