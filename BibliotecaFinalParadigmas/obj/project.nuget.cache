@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "fcWmB1vLcs4=",
+  "dgSpecHash": "aP4c7X9vQrk=",
   "success": true,
   "projectFilePath": "C:\\Users\\pjgom\\OneDrive\\Desktop\\FinalParadigmas\\BibliotecaFinalParadigmas\\BibliotecaFinalParadigmas.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\pjgom\\.nuget\\packages\\castle.core\\5.2.1\\castle.core.5.2.1.nupkg.sha512",
+    "C:\\Users\\pjgom\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -21,19 +21,13 @@ namespace BibliotecaFinalParadigmas.Clases
             lista_facturas = new List<Factura>();
         }
 
-        public string? Nombre{ get => nombre;
+        public string? Nombre { get => nombre;
             set => nombre = !(String.IsNullOrEmpty(value)) && !(String.IsNullOrWhiteSpace(value)) && value.Length > longitudMinimaNombre ? value : throw new Exception($"Error: el nombre de la persona debe tener una longitud de más de {longitudMinimaNombre} carácteres"); }
 
-        public List<Mantenimiento> Lista_mantenimientos
-        {
-            get => lista_mantenimientos;
-            set => lista_mantenimientos = value.Count >= cantidadMinimaListas ? value : throw new Exception("Error: La lista de mecanicos no puede estar vacía");
-        }
+        public List<Mantenimiento> Lista_mantenimientos { get => lista_mantenimientos;
+            set => lista_mantenimientos = value.Count >= cantidadMinimaListas ? value : throw new Exception("Error: La lista de mecanicos no puede estar vacía"); }
 
-        public List<Factura> Lista_facturas
-        {
-            get => lista_facturas;
-            set => lista_facturas = value.Count >= cantidadMinimaListas ? value : throw new Exception("Error: La lista de mecanicos no puede estar vacía");
-        }
+        public List<Factura> Lista_facturas { get => lista_facturas;
+            set => lista_facturas = value.Count >= cantidadMinimaListas ? value : throw new Exception("Error: La lista de mecanicos no puede estar vacía"); }
     }
 }

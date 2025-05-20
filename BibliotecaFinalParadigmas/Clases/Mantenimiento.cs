@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BibliotecaFinalParadigmas.Publishers;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -14,7 +15,7 @@ namespace BibliotecaFinalParadigmas.Clases
 
         //Atributos de métodos
         private DateTime fecha;
-        private bool finalizado;
+        public bool finalizado;
         private bool facturado;
 
         //Atributos de usuario
@@ -26,7 +27,7 @@ namespace BibliotecaFinalParadigmas.Clases
 
         //Eventos
         public Publisher_IngresoCarro notificacion_ingresoCarro;
-        public Publisher_Facturacion notificacion_facturar;
+        public Publisher_Factura notificacion_facturar;
 
         //Constructor
         public Mantenimiento(uint valorMantenimiento, Carro carro, List<Mecanico> lista_mecanicos, List<Repuesto> lista_repuestos, List<Trabajo> lista_trabajos)
@@ -55,6 +56,25 @@ namespace BibliotecaFinalParadigmas.Clases
             set => lista_trabajos = value.Count >= cantidadMinimaListas ? value : throw new Exception("Error: La lista de repuestos no puede estar vacía"); }
 
         //Métodos
-        internal void EventHandler() { }
+        internal Factura EventHandler() 
+        {
+            return new Factura(valorMantenimiento);
+        }
+
+        public void FinalizarMantenimiento ()
+        {
+            try
+            {
+                finalizado = true;
+                notificacion_facturar = new Publisher_Factura();
+                notificacion_facturar.evento_facturacion += EventHandler;
+                notificacion_facturar.InformarFacturacion(valorMantenimiento, finalizado);
+                notificacion_facturar.evento_facturacion -= EventHandler;
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
+        }
     }
 }
