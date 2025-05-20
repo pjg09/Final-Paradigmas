@@ -10,17 +10,22 @@ namespace BibliotecaFinalParadigmas.Publishers
     internal class Publisher_IngresoCarro
     {
         //Delegado
-        internal delegate Mantenimiento delegado_ingreso();
+        internal delegate void delegado_ingreso();
 
         //Evento
         internal event delegado_ingreso evento_ingreso;
 
+        private List<Mecanico> lista_mecanicos;
+        private List<Trabajo> lista_trabajos;
+        private List<Repuesto> lista_repuestos;
+        private Carro carro;
+
         //Método
-        public Mantenimiento InformarIngresoCarro (uint valorMantenimiento, Carro carro, List<Mecanico> lista_mecanicos, List<Repuesto> lista_repuestos, List<Trabajo> lista_trabajos)
+        public void InformarIngresoCarro ()
         {
             if (evento_ingreso != null)
             {
-                return new Mantenimiento(valorMantenimiento, carro, lista_mecanicos, lista_repuestos, lista_trabajos);
+                new Mantenimiento(carro, lista_mecanicos, lista_repuestos, lista_trabajos);
             }
             else
             {

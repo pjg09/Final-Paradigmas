@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BibliotecaFinalParadigmas.Publishers;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,6 +14,7 @@ namespace BibliotecaFinalParadigmas.Clases
         private List<Mantenimiento> lista_mantenimientos;
         private List<Factura> lista_facturas;
         private string? nombre;
+        public Publisher_IngresoCarro notificacion_ingresoCarro;
 
         public Taller(string? nombre)
         {
@@ -29,5 +31,22 @@ namespace BibliotecaFinalParadigmas.Clases
 
         public List<Factura> Lista_facturas { get => lista_facturas;
             set => lista_facturas = value.Count >= cantidadMinimaListas ? value : throw new Exception("Error: La lista de mecanicos no puede estar vacía"); }
+
+        internal void EventHandler() { }
+
+        public void IngresoCarro()
+        {
+            try
+            {
+                notificacion_ingresoCarro = new Publisher_IngresoCarro();
+                notificacion_ingresoCarro.evento_ingreso += EventHandler;
+                notificacion_ingresoCarro.InformarIngresoCarro();
+                notificacion_ingresoCarro.evento_ingreso -= EventHandler;
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
+        }
     }
 }

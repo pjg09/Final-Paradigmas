@@ -19,7 +19,6 @@ namespace BibliotecaFinalParadigmas.Clases
         private string? placa, marca, modelo;
         private ushort? agno;
         private Cliente duegnoCarro;
-        private bool mantimientoFinalizado ;
 
         //Constructor
         public Carro(string placa, string marca, string modelo, ushort agno, Cliente duegnoCarro)
@@ -28,8 +27,7 @@ namespace BibliotecaFinalParadigmas.Clases
             Marca = marca;
             Modelo = modelo;
             Agno = agno;
-            duegnoCarro = duegnoCarro ;
-            mantimientoFinalizado = false;
+            duegnoCarro = duegnoCarro;
         }
 
         
@@ -99,6 +97,5 @@ namespace BibliotecaFinalParadigmas.Clases
                 agno = value;
             }
         }
-        public bool MantimientoFinalizado { get => mantimientoFinalizado; set => mantimientoFinalizado = value; }
     }
 }

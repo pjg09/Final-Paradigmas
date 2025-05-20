@@ -19,22 +19,20 @@ namespace BibliotecaFinalParadigmas.Clases
         private bool facturado;
 
         //Atributos de usuario
-        private List<Repuesto> lista_repuestos;
         private Carro carro;
         private uint valorMantenimiento;
         private List<Mecanico> lista_mecanicos;
         private List<Trabajo> lista_trabajos;
+        private List<Repuesto> lista_repuestos;
 
-        //Eventos
-        public Publisher_IngresoCarro notificacion_ingresoCarro;
+        //Evento
         public Publisher_Factura notificacion_facturar;
 
         //Constructor
-        public Mantenimiento(uint valorMantenimiento, Carro carro, List<Mecanico> lista_mecanicos, List<Repuesto> lista_repuestos, List<Trabajo> lista_trabajos)
+        public Mantenimiento(Carro carro, List<Mecanico> lista_mecanicos, List<Repuesto> lista_repuestos, List<Trabajo> lista_trabajos)
         {
             finalizado = false;
             facturado = false;
-            ValorMantenimiento = valorMantenimiento;
             lista_mecanicos = new List<Mecanico>();
             lista_repuestos = new List<Repuesto>();
             lista_trabajos = new List<Trabajo>();

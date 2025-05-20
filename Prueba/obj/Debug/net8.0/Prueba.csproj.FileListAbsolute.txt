@@ -1,0 +1,16 @@
+C:\Users\pjgom\OneDrive\Desktop\FinalParadigmas\Prueba\bin\Debug\net8.0\Prueba.exe
+C:\Users\pjgom\OneDrive\Desktop\FinalParadigmas\Prueba\bin\Debug\net8.0\Prueba.deps.json
+C:\Users\pjgom\OneDrive\Desktop\FinalParadigmas\Prueba\bin\Debug\net8.0\Prueba.runtimeconfig.json
+C:\Users\pjgom\OneDrive\Desktop\FinalParadigmas\Prueba\bin\Debug\net8.0\Prueba.dll
+C:\Users\pjgom\OneDrive\Desktop\FinalParadigmas\Prueba\bin\Debug\net8.0\Prueba.pdb
+C:\Users\pjgom\OneDrive\Desktop\FinalParadigmas\Prueba\obj\Debug\net8.0\Prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pjgom\OneDrive\Desktop\FinalParadigmas\Prueba\obj\Debug\net8.0\Prueba.AssemblyInfoInputs.cache
+C:\Users\pjgom\OneDrive\Desktop\FinalParadigmas\Prueba\obj\Debug\net8.0\Prueba.AssemblyInfo.cs
+C:\Users\pjgom\OneDrive\Desktop\FinalParadigmas\Prueba\obj\Debug\net8.0\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\pjgom\OneDrive\Desktop\FinalParadigmas\Prueba\obj\Debug\net8.0\Prueba.sourcelink.json
+C:\Users\pjgom\OneDrive\Desktop\FinalParadigmas\Prueba\obj\Debug\net8.0\Prueba.dll
+C:\Users\pjgom\OneDrive\Desktop\FinalParadigmas\Prueba\obj\Debug\net8.0\refint\Prueba.dll
+C:\Users\pjgom\OneDrive\Desktop\FinalParadigmas\Prueba\obj\Debug\net8.0\Prueba.pdb
+C:\Users\pjgom\OneDrive\Desktop\FinalParadigmas\Prueba\obj\Debug\net8.0\Prueba.genruntimeconfig.cache
+C:\Users\pjgom\OneDrive\Desktop\FinalParadigmas\Prueba\obj\Debug\net8.0\ref\Prueba.dll
+C:\Users\pjgom\OneDrive\Desktop\FinalParadigmas\Prueba\obj\Debug\net8.0\Prueba.csproj.AssemblyReference.cache
