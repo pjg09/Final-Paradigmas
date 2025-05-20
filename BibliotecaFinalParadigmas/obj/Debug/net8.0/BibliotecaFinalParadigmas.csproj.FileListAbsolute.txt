@@ -1,0 +1,5 @@
+C:\Users\zyroc\OneDrive\Escritorio\Final-Paradigmas\BibliotecaFinalParadigmas\obj\Debug\net8.0\BibliotecaFinalParadigmas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zyroc\OneDrive\Escritorio\Final-Paradigmas\BibliotecaFinalParadigmas\obj\Debug\net8.0\BibliotecaFinalParadigmas.AssemblyInfoInputs.cache
+C:\Users\zyroc\OneDrive\Escritorio\Final-Paradigmas\BibliotecaFinalParadigmas\obj\Debug\net8.0\BibliotecaFinalParadigmas.AssemblyInfo.cs
+C:\Users\zyroc\OneDrive\Escritorio\Final-Paradigmas\BibliotecaFinalParadigmas\obj\Debug\net8.0\BibliotecaFinalParadigmas.csproj.CoreCompileInputs.cache
+C:\Users\zyroc\OneDrive\Escritorio\Final-Paradigmas\BibliotecaFinalParadigmas\obj\Debug\net8.0\BibliotecaFinalParadigmas.sourcelink.json
