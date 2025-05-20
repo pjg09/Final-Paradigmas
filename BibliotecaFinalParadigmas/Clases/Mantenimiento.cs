@@ -35,7 +35,8 @@ namespace BibliotecaFinalParadigmas.Clases
             facturado = false;
             ValorMantenimiento = valorMantenimiento;
             lista_mecanicos = new List<Mecanico>();
-            lista_repuestos 
+            lista_repuestos = new List<Repuesto>();
+            lista_trabajos = new List<Trabajo>();
         }
 
         //Accesores
@@ -47,6 +48,13 @@ namespace BibliotecaFinalParadigmas.Clases
         public List<Mecanico> Lista_mecanicos { get => lista_mecanicos;
             set => lista_mecanicos = value.Count >= cantidadMinimaListas ? value : throw new Exception("Error: La lista de mecanicos no puede estar vacía"); }
 
+        public List<Repuesto> Lista_repuestos { get => lista_repuestos;
+            set => lista_repuestos = value.Count >= cantidadMinimaListas ? value : throw new Exception("Error: La lista de repuestos no puede estar vacía"); }
 
+        public List<Trabajo> Lista_trabajos { get => lista_trabajos;
+            set => lista_trabajos = value.Count >= cantidadMinimaListas ? value : throw new Exception("Error: La lista de repuestos no puede estar vacía"); }
+
+        //Métodos
+        internal void EventHandler() { }
     }
 }

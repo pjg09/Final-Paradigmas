@@ -1,19 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\BibliotecaFinalParadigmas\\",
+  "WorkspaceRootPath": "C:\\Users\\pjgom\\OneDrive\\Desktop\\FinalParadigmas\\BibliotecaFinalParadigmas\\",
   "Documents": [
     {
-<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|c:\\users\\pjgom\\onedrive\\desktop\\finalparadigmas\\bibliotecafinalparadigmas\\clases\\taller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|solutionrelative:clases\\taller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|c:\\users\\pjgom\\onedrive\\desktop\\finalparadigmas\\bibliotecafinalparadigmas\\clases\\mantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|solutionrelative:clases\\mantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|c:\\users\\pjgom\\onedrive\\desktop\\finalparadigmas\\bibliotecafinalparadigmas\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|solutionrelative:clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|c:\\users\\pjgom\\onedrive\\desktop\\finalparadigmas\\bibliotecafinalparadigmas\\clases\\trabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|solutionrelative:clases\\trabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|c:\\users\\pjgom\\onedrive\\desktop\\finalparadigmas\\bibliotecafinalparadigmas\\clases\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -28,33 +27,16 @@
       "RelativeMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|solutionrelative:clases\\mecanico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|c:\\users\\pjgom\\onedrive\\desktop\\finalparadigmas\\bibliotecafinalparadigmas\\clases\\repuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|solutionrelative:clases\\repuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|c:\\users\\pjgom\\onedrive\\desktop\\finalparadigmas\\bibliotecafinalparadigmas\\clases\\trabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|solutionrelative:clases\\trabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|c:\\users\\pjgom\\onedrive\\desktop\\finalparadigmas\\bibliotecafinalparadigmas\\clases\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|solutionrelative:clases\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-      "AbsoluteMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|c:\\users\\zyroc\\onedrive\\escritorio\\final-paradigmas\\bibliotecafinalparadigmas\\clases\\hibrido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|solutionrelative:clases\\hibrido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> 75209d98f6cb09943d8f8ac3a387ba4dc6be015d
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|c:\\users\\zyroc\\onedrive\\escritorio\\final-paradigmas\\bibliotecafinalparadigmas\\clases\\gasolina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|solutionrelative:clases\\gasolina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-<<<<<<< HEAD
-      "AbsoluteMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|c:\\users\\pjgom\\onedrive\\desktop\\finalparadigmas\\bibliotecafinalparadigmas\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-      "AbsoluteMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|c:\\users\\zyroc\\onedrive\\escritorio\\final-paradigmas\\bibliotecafinalparadigmas\\clases\\electrico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|solutionrelative:clases\\electrico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|c:\\users\\zyroc\\onedrive\\escritorio\\final-paradigmas\\bibliotecafinalparadigmas\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|solutionrelative:clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|c:\\users\\zyroc\\onedrive\\escritorio\\final-paradigmas\\bibliotecafinalparadigmas\\clases\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E69C2977-AD66-4190-986E-B4E042CAF966}|BibliotecaFinalParadigmas.csproj|solutionrelative:clases\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> 75209d98f6cb09943d8f8ac3a387ba4dc6be015d
     }
   ],
   "DocumentGroupContainers": [
@@ -64,68 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< HEAD
-          "SelectedChildIndex": 11,
-=======
-<<<<<<< HEAD
-          "SelectedChildIndex": 3,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Carro.cs",
-              "DocumentMoniker": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\BibliotecaFinalParadigmas\\Clases\\Carro.cs",
-              "RelativeDocumentMoniker": "Clases\\Carro.cs",
-              "ToolTip": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\BibliotecaFinalParadigmas\\Clases\\Carro.cs",
-              "RelativeToolTip": "Clases\\Carro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T15:42:49.646Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Electrico.cs",
-              "DocumentMoniker": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\BibliotecaFinalParadigmas\\Clases\\Electrico.cs",
-              "RelativeDocumentMoniker": "Clases\\Electrico.cs",
-              "ToolTip": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\BibliotecaFinalParadigmas\\Clases\\Electrico.cs",
-              "RelativeToolTip": "Clases\\Electrico.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T16:42:34.83Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Gasolina.cs",
-              "DocumentMoniker": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\BibliotecaFinalParadigmas\\Clases\\Gasolina.cs",
-              "RelativeDocumentMoniker": "Clases\\Gasolina.cs",
-              "ToolTip": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\BibliotecaFinalParadigmas\\Clases\\Gasolina.cs",
-              "RelativeToolTip": "Clases\\Gasolina.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T16:45:19.683Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Hibrido.cs",
-              "DocumentMoniker": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\BibliotecaFinalParadigmas\\Clases\\Hibrido.cs",
-              "RelativeDocumentMoniker": "Clases\\Hibrido.cs",
-              "ToolTip": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\BibliotecaFinalParadigmas\\Clases\\Hibrido.cs",
-              "RelativeToolTip": "Clases\\Hibrido.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T16:32:50.673Z",
-              "EditorCaption": ""
-=======
-          "SelectedChildIndex": 4,
->>>>>>> 75209d98f6cb09943d8f8ac3a387ba4dc6be015d
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -142,11 +63,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
->>>>>>> 588bf9f38bd5cc14984006913fb9745515f49b61
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Carro.cs",
               "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\FinalParadigmas\\BibliotecaFinalParadigmas\\Clases\\Carro.cs",
               "RelativeDocumentMoniker": "Clases\\Carro.cs",
@@ -154,12 +74,11 @@
               "RelativeToolTip": "Clases\\Carro.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAQwBEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T15:43:29.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T15:43:29.07Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Repuesto.cs",
               "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\FinalParadigmas\\BibliotecaFinalParadigmas\\Clases\\Repuesto.cs",
               "RelativeDocumentMoniker": "Clases\\Repuesto.cs",
@@ -198,21 +117,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Persona.cs",
-              "DocumentMoniker": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\BibliotecaFinalParadigmas\\Clases\\Persona.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\FinalParadigmas\\BibliotecaFinalParadigmas\\Clases\\Persona.cs",
               "RelativeDocumentMoniker": "Clases\\Persona.cs",
-              "ToolTip": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\BibliotecaFinalParadigmas\\Clases\\Persona.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\FinalParadigmas\\BibliotecaFinalParadigmas\\Clases\\Persona.cs",
               "RelativeToolTip": "Clases\\Persona.cs",
-<<<<<<< HEAD
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCEAAAAQAQAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T21:10:10.071Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Trabajo.cs",
               "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\FinalParadigmas\\BibliotecaFinalParadigmas\\Clases\\Trabajo.cs",
               "RelativeDocumentMoniker": "Clases\\Trabajo.cs",
@@ -220,8 +138,7 @@
               "RelativeToolTip": "Clases\\Trabajo.cs",
               "ViewState": "AgIAAG0AAAAAAAAAAAAQwIsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T15:44:56.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T15:44:56.789Z"
             },
             {
               "$type": "Document",
@@ -238,47 +155,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Mantenimiento.cs",
               "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\FinalParadigmas\\BibliotecaFinalParadigmas\\Clases\\Mantenimiento.cs",
               "RelativeDocumentMoniker": "Clases\\Mantenimiento.cs",
               "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\FinalParadigmas\\BibliotecaFinalParadigmas\\Clases\\Mantenimiento.cs",
               "RelativeToolTip": "Clases\\Mantenimiento.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAwCUAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAzwDAAAACeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T16:32:40.588Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\FinalParadigmas\\BibliotecaFinalParadigmas\\Class1.cs",
-              "RelativeDocumentMoniker": "Class1.cs",
-              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\FinalParadigmas\\BibliotecaFinalParadigmas\\Class1.cs",
-              "RelativeToolTip": "Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Taller.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\FinalParadigmas\\BibliotecaFinalParadigmas\\Clases\\Taller.cs",
+              "RelativeDocumentMoniker": "Clases\\Taller.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\FinalParadigmas\\BibliotecaFinalParadigmas\\Clases\\Taller.cs",
+              "RelativeToolTip": "Clases\\Taller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T21:09:20.254Z",
+              "WhenOpened": "2025-05-20T15:37:10.47Z",
               "EditorCaption": ""
-=======
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-<<<<<<< HEAD
-              "WhenOpened": "2025-05-19T15:55:47.185Z",
-              "EditorCaption": ""
-=======
-              "WhenOpened": "2025-05-07T21:10:10.071Z"
->>>>>>> 588bf9f38bd5cc14984006913fb9745515f49b61
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
->>>>>>> 75209d98f6cb09943d8f8ac3a387ba4dc6be015d
             }
           ]
         }
