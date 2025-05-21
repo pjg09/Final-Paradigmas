@@ -7,4 +7,8 @@
     <RootNamespace>Taller_Web</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Views\Carro\" />
+  </ItemGroup>
+
 </Project>
