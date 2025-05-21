@@ -24,3 +24,16 @@ C:\Users\zyroc\OneDrive\Escritorio\Final-Paradigmas\BibliotecaFinalParadigmas\ob
 C:\Users\zyroc\OneDrive\Escritorio\Final-Paradigmas\BibliotecaFinalParadigmas\obj\Debug\net8.0\refint\BibliotecaFinalParadigmas.dll
 C:\Users\zyroc\OneDrive\Escritorio\Final-Paradigmas\BibliotecaFinalParadigmas\obj\Debug\net8.0\BibliotecaFinalParadigmas.pdb
 C:\Users\zyroc\OneDrive\Escritorio\Final-Paradigmas\BibliotecaFinalParadigmas\obj\Debug\net8.0\ref\BibliotecaFinalParadigmas.dll
+C:\Users\pjgom\OneDrive\Desktop\Paradigmas\Final-Paradigmas\BibliotecaFinalParadigmas\bin\Debug\net8.0\BibliotecaFinalParadigmas.deps.json
+C:\Users\pjgom\OneDrive\Desktop\Paradigmas\Final-Paradigmas\BibliotecaFinalParadigmas\bin\Debug\net8.0\BibliotecaFinalParadigmas.dll
+C:\Users\pjgom\OneDrive\Desktop\Paradigmas\Final-Paradigmas\BibliotecaFinalParadigmas\bin\Debug\net8.0\BibliotecaFinalParadigmas.pdb
+C:\Users\pjgom\OneDrive\Desktop\Paradigmas\Final-Paradigmas\BibliotecaFinalParadigmas\obj\Debug\net8.0\BibliotecaFinalParadigmas.csproj.AssemblyReference.cache
+C:\Users\pjgom\OneDrive\Desktop\Paradigmas\Final-Paradigmas\BibliotecaFinalParadigmas\obj\Debug\net8.0\BibliotecaFinalParadigmas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pjgom\OneDrive\Desktop\Paradigmas\Final-Paradigmas\BibliotecaFinalParadigmas\obj\Debug\net8.0\BibliotecaFinalParadigmas.AssemblyInfoInputs.cache
+C:\Users\pjgom\OneDrive\Desktop\Paradigmas\Final-Paradigmas\BibliotecaFinalParadigmas\obj\Debug\net8.0\BibliotecaFinalParadigmas.AssemblyInfo.cs
+C:\Users\pjgom\OneDrive\Desktop\Paradigmas\Final-Paradigmas\BibliotecaFinalParadigmas\obj\Debug\net8.0\BibliotecaFinalParadigmas.csproj.CoreCompileInputs.cache
+C:\Users\pjgom\OneDrive\Desktop\Paradigmas\Final-Paradigmas\BibliotecaFinalParadigmas\obj\Debug\net8.0\BibliotecaFinalParadigmas.sourcelink.json
+C:\Users\pjgom\OneDrive\Desktop\Paradigmas\Final-Paradigmas\BibliotecaFinalParadigmas\obj\Debug\net8.0\BibliotecaFinalParadigmas.dll
+C:\Users\pjgom\OneDrive\Desktop\Paradigmas\Final-Paradigmas\BibliotecaFinalParadigmas\obj\Debug\net8.0\refint\BibliotecaFinalParadigmas.dll
+C:\Users\pjgom\OneDrive\Desktop\Paradigmas\Final-Paradigmas\BibliotecaFinalParadigmas\obj\Debug\net8.0\BibliotecaFinalParadigmas.pdb
+C:\Users\pjgom\OneDrive\Desktop\Paradigmas\Final-Paradigmas\BibliotecaFinalParadigmas\obj\Debug\net8.0\ref\BibliotecaFinalParadigmas.dll

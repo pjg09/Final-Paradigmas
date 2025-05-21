@@ -21,21 +21,18 @@ namespace BibliotecaFinalParadigmas.Clases
         private Cliente duegnoCarro;
 
         //Constructor
-        public Carro(string placa, string marca, string modelo, ushort agno, Cliente duegnoCarro)
+        public Carro(string placa, string marca, string modelo, ushort agno)
         {
             Placa = placa;
             Marca = marca;
             Modelo = modelo;
             Agno = agno;
-            duegnoCarro = duegnoCarro;
         }
 
         
         //Accesores
         //-------------------------------------------------------------------------------------------------------------------------//
 
-        //En DuegnoCarro solamente tenemos el get porque nos interesa solamente traer el dueño carro de la clase Ciente
-        internal Cliente DuegnoCarro { get => duegnoCarro; }
 
         /*
           En placa verificamos:

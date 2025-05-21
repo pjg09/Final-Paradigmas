@@ -15,7 +15,7 @@ namespace BibliotecaFinalParadigmas.Clases
 
 
         //Constructor
-        public Hibrido(string placa, string marca, string modelo, ushort agno, Cliente duegnoCarro, byte numeroBaterias) : base(placa, marca, modelo, agno, duegnoCarro)
+        public Hibrido(string placa, string marca, string modelo, ushort agno, byte numeroBaterias) : base(placa, marca, modelo, agno)
         {
             NumeroBaterias = numeroBaterias;
         }

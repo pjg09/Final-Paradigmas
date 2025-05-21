@@ -1,25 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\Taller Web\\",
+  "WorkspaceRootPath": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Paradigmas\\Final-Paradigmas\\Taller Web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3216BD3-EB36-44A0-81A6-9CABE44EF121}|Taller Web\\Taller Web.csproj|c:\\users\\zyroc\\onedrive\\escritorio\\final-paradigmas\\taller web\\taller web\\views\\mantenimiento\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3216BD3-EB36-44A0-81A6-9CABE44EF121}|Taller Web\\Taller Web.csproj|solutionrelative:taller web\\views\\mantenimiento\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B3216BD3-EB36-44A0-81A6-9CABE44EF121}|Taller Web\\Taller Web.csproj|c:\\users\\pjgom\\onedrive\\desktop\\paradigmas\\final-paradigmas\\taller web\\taller web\\controllers\\carrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3216BD3-EB36-44A0-81A6-9CABE44EF121}|Taller Web\\Taller Web.csproj|solutionrelative:taller web\\controllers\\carrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3216BD3-EB36-44A0-81A6-9CABE44EF121}|Taller Web\\Taller Web.csproj|c:\\users\\zyroc\\onedrive\\escritorio\\final-paradigmas\\taller web\\taller web\\views\\mantenimiento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3216BD3-EB36-44A0-81A6-9CABE44EF121}|Taller Web\\Taller Web.csproj|solutionrelative:taller web\\views\\mantenimiento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B3216BD3-EB36-44A0-81A6-9CABE44EF121}|Taller Web\\Taller Web.csproj|c:\\users\\pjgom\\onedrive\\desktop\\paradigmas\\final-paradigmas\\taller web\\taller web\\servicios\\carroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3216BD3-EB36-44A0-81A6-9CABE44EF121}|Taller Web\\Taller Web.csproj|solutionrelative:taller web\\servicios\\carroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3216BD3-EB36-44A0-81A6-9CABE44EF121}|Taller Web\\Taller Web.csproj|c:\\users\\zyroc\\onedrive\\escritorio\\final-paradigmas\\taller web\\taller web\\controllers\\mantenimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B3216BD3-EB36-44A0-81A6-9CABE44EF121}|Taller Web\\Taller Web.csproj|c:\\users\\pjgom\\onedrive\\desktop\\paradigmas\\final-paradigmas\\taller web\\taller web\\controllers\\mantenimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3216BD3-EB36-44A0-81A6-9CABE44EF121}|Taller Web\\Taller Web.csproj|solutionrelative:taller web\\controllers\\mantenimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3216BD3-EB36-44A0-81A6-9CABE44EF121}|Taller Web\\Taller Web.csproj|c:\\users\\zyroc\\onedrive\\escritorio\\final-paradigmas\\taller web\\taller web\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B3216BD3-EB36-44A0-81A6-9CABE44EF121}|Taller Web\\Taller Web.csproj|c:\\users\\pjgom\\onedrive\\desktop\\paradigmas\\final-paradigmas\\taller web\\taller web\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3216BD3-EB36-44A0-81A6-9CABE44EF121}|Taller Web\\Taller Web.csproj|solutionrelative:taller web\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3216BD3-EB36-44A0-81A6-9CABE44EF121}|Taller Web\\Taller Web.csproj|c:\\users\\zyroc\\onedrive\\escritorio\\final-paradigmas\\taller web\\taller web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B3216BD3-EB36-44A0-81A6-9CABE44EF121}|Taller Web\\Taller Web.csproj|c:\\users\\pjgom\\onedrive\\desktop\\paradigmas\\final-paradigmas\\taller web\\taller web\\views\\carro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3216BD3-EB36-44A0-81A6-9CABE44EF121}|Taller Web\\Taller Web.csproj|solutionrelative:taller web\\views\\carro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3216BD3-EB36-44A0-81A6-9CABE44EF121}|Taller Web\\Taller Web.csproj|c:\\users\\pjgom\\onedrive\\desktop\\paradigmas\\final-paradigmas\\taller web\\taller web\\views\\carro\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3216BD3-EB36-44A0-81A6-9CABE44EF121}|Taller Web\\Taller Web.csproj|solutionrelative:taller web\\views\\carro\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3216BD3-EB36-44A0-81A6-9CABE44EF121}|Taller Web\\Taller Web.csproj|c:\\users\\pjgom\\onedrive\\desktop\\paradigmas\\final-paradigmas\\taller web\\taller web\\views\\mantenimiento\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3216BD3-EB36-44A0-81A6-9CABE44EF121}|Taller Web\\Taller Web.csproj|solutionrelative:taller web\\views\\mantenimiento\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3216BD3-EB36-44A0-81A6-9CABE44EF121}|Taller Web\\Taller Web.csproj|c:\\users\\pjgom\\onedrive\\desktop\\paradigmas\\final-paradigmas\\taller web\\taller web\\views\\mantenimiento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3216BD3-EB36-44A0-81A6-9CABE44EF121}|Taller Web\\Taller Web.csproj|solutionrelative:taller web\\views\\mantenimiento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3216BD3-EB36-44A0-81A6-9CABE44EF121}|Taller Web\\Taller Web.csproj|c:\\users\\pjgom\\onedrive\\desktop\\paradigmas\\final-paradigmas\\taller web\\taller web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B3216BD3-EB36-44A0-81A6-9CABE44EF121}|Taller Web\\Taller Web.csproj|solutionrelative:taller web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -30,11 +46,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Bookmark",
@@ -43,10 +67,62 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CarroController.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Paradigmas\\Final-Paradigmas\\Taller Web\\Taller Web\\Controllers\\CarroController.cs",
+              "RelativeDocumentMoniker": "Taller Web\\Controllers\\CarroController.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Paradigmas\\Final-Paradigmas\\Taller Web\\Taller Web\\Controllers\\CarroController.cs",
+              "RelativeToolTip": "Taller Web\\Controllers\\CarroController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:34:37.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarroService.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Paradigmas\\Final-Paradigmas\\Taller Web\\Taller Web\\Servicios\\CarroService.cs",
+              "RelativeDocumentMoniker": "Taller Web\\Servicios\\CarroService.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Paradigmas\\Final-Paradigmas\\Taller Web\\Taller Web\\Servicios\\CarroService.cs",
+              "RelativeToolTip": "Taller Web\\Servicios\\CarroService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:34:16.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Paradigmas\\Final-Paradigmas\\Taller Web\\Taller Web\\Views\\Carro\\Index.cshtml",
+              "RelativeDocumentMoniker": "Taller Web\\Views\\Carro\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Paradigmas\\Final-Paradigmas\\Taller Web\\Taller Web\\Views\\Carro\\Index.cshtml",
+              "RelativeToolTip": "Taller Web\\Views\\Carro\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T17:34:06.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Crear.cshtml",
-              "DocumentMoniker": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\Taller Web\\Taller Web\\Views\\Mantenimiento\\Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Paradigmas\\Final-Paradigmas\\Taller Web\\Taller Web\\Views\\Carro\\Crear.cshtml",
+              "RelativeDocumentMoniker": "Taller Web\\Views\\Carro\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Paradigmas\\Final-Paradigmas\\Taller Web\\Taller Web\\Views\\Carro\\Crear.cshtml",
+              "RelativeToolTip": "Taller Web\\Views\\Carro\\Crear.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T17:34:05.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Paradigmas\\Final-Paradigmas\\Taller Web\\Taller Web\\Views\\Mantenimiento\\Crear.cshtml",
               "RelativeDocumentMoniker": "Taller Web\\Views\\Mantenimiento\\Crear.cshtml",
-              "ToolTip": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\Taller Web\\Taller Web\\Views\\Mantenimiento\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Paradigmas\\Final-Paradigmas\\Taller Web\\Taller Web\\Views\\Mantenimiento\\Crear.cshtml",
               "RelativeToolTip": "Taller Web\\Views\\Mantenimiento\\Crear.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -57,9 +133,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ClienteController.cs",
-              "DocumentMoniker": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\Taller Web\\Taller Web\\Controllers\\ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Paradigmas\\Final-Paradigmas\\Taller Web\\Taller Web\\Controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "Taller Web\\Controllers\\ClienteController.cs",
-              "ToolTip": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\Taller Web\\Taller Web\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Paradigmas\\Final-Paradigmas\\Taller Web\\Taller Web\\Controllers\\ClienteController.cs",
               "RelativeToolTip": "Taller Web\\Controllers\\ClienteController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -70,9 +146,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MantenimientoController.cs",
-              "DocumentMoniker": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\Taller Web\\Taller Web\\Controllers\\MantenimientoController.cs",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Paradigmas\\Final-Paradigmas\\Taller Web\\Taller Web\\Controllers\\MantenimientoController.cs",
               "RelativeDocumentMoniker": "Taller Web\\Controllers\\MantenimientoController.cs",
-              "ToolTip": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\Taller Web\\Taller Web\\Controllers\\MantenimientoController.cs",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Paradigmas\\Final-Paradigmas\\Taller Web\\Taller Web\\Controllers\\MantenimientoController.cs",
               "RelativeToolTip": "Taller Web\\Controllers\\MantenimientoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -81,29 +157,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\Taller Web\\Taller Web\\Views\\Mantenimiento\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Paradigmas\\Final-Paradigmas\\Taller Web\\Taller Web\\Views\\Mantenimiento\\Index.cshtml",
               "RelativeDocumentMoniker": "Taller Web\\Views\\Mantenimiento\\Index.cshtml",
-              "ToolTip": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\Taller Web\\Taller Web\\Views\\Mantenimiento\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Paradigmas\\Final-Paradigmas\\Taller Web\\Taller Web\\Views\\Mantenimiento\\Index.cshtml",
               "RelativeToolTip": "Taller Web\\Views\\Mantenimiento\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T15:38:38.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T15:38:38.609Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\Taller Web\\Taller Web\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Paradigmas\\Final-Paradigmas\\Taller Web\\Taller Web\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Taller Web\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\Taller Web\\Taller Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Paradigmas\\Final-Paradigmas\\Taller Web\\Taller Web\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Taller Web\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T15:31:01.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T15:31:01.888Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             }
           ]
         }

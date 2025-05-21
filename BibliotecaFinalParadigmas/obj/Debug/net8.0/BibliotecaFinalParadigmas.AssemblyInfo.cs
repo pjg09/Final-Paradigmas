@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BibliotecaFinalParadigmas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af952ff3df8a00217a6c769fe6bc482ca62b7452")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e61bec67e96a10513c78a7dcc6e9112c1da0eac1")]
 [assembly: System.Reflection.AssemblyProductAttribute("BibliotecaFinalParadigmas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BibliotecaFinalParadigmas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

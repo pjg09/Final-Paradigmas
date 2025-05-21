@@ -16,7 +16,7 @@ namespace BibliotecaFinalParadigmas.Clases
 
 
         //Constructor
-        public Electrico(string placa, string marca, string modelo, ushort agno, Cliente duegnoCarro, byte autonomia) : base(placa, marca, modelo, agno, duegnoCarro)
+        public Electrico(string placa, string marca, string modelo, ushort agno, byte autonomia) : base(placa, marca, modelo, agno)
         {
             Autonomia = autonomia;
         }
