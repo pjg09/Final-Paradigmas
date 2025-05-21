@@ -11,4 +11,8 @@
     <Folder Include="Views\Carro\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\BibliotecaFinalParadigmas\BibliotecaFinalParadigmas.csproj" />
+  </ItemGroup>
+
 </Project>
