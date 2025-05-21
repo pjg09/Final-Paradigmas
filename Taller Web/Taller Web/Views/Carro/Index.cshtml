@@ -1,0 +1,39 @@
+﻿@*
+
+*@
+@{
+}
+@model IEnumerable<BibliotecaFinalParadigmas.Clases.Carro>
+
+<h2>Carros ingresados al taller</h2>
+
+<a class="btn btn-primary" asp-action="Crear">Ingresar nuevo carro</a>
+
+@if (Model != null && Model.Any())
+{
+    <table class="table table-bordered mt-3">
+        <thead>
+            <tr>
+                <th>Placa</th>
+                <th>Marca</th>
+                <th>Modelo</th>
+                <th>Año</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var v in Model)
+            {
+                <tr>
+                    <td>@v.Placa</td>
+                    <td>@v.Marca</td>
+                    <td>@v.Modelo</td>
+                    <td>@v.Agno</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No hay carros ingresados en el taller</p>
+}
