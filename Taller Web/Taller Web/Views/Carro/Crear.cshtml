@@ -7,6 +7,14 @@
 
 <h2>Registrar carro</h2>
 
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger mt-3">
+        @TempData["Error"]
+    </div>
+}
+
+
 <form asp-action="Crear" method="post">
     <div class="form-group">
         <label for="placa">Placa</label>
@@ -24,8 +32,8 @@
     </div>
 
     <div class="form-group">
-        <label for="ano">Año</label>
-        <input name="ano" type="date" class="form-control" required />
+        <label for="agno">Año</label>
+        <input name="agno" class="form-control" required />
     </div>
 
     <button type="submit" class="btn btn-primary mt-3">Guardar</button>
