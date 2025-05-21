@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "euEbOPusQJU=",
+  "dgSpecHash": "Z5d50hLTxLM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Paradigmas\\Final-Paradigmas\\Taller Web\\Taller Web\\Taller Web.csproj",
+  "projectFilePath": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\Taller Web\\Taller Web\\Taller Web.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\pjgom\\.nuget\\packages\\castle.core\\5.2.1\\castle.core.5.2.1.nupkg.sha512",
-    "C:\\Users\\pjgom\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+    "C:\\Users\\zyroc\\.nuget\\packages\\castle.core\\5.2.1\\castle.core.5.2.1.nupkg.sha512",
+    "C:\\Users\\zyroc\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

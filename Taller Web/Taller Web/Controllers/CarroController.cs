@@ -24,11 +24,12 @@ namespace Taller_Web.Controllers
             return View();
         }
 
-        [HttpPost]
+        // [HttpPost]
 
+        /*
         public IActionResult Crear(string placa, string)
         {
-            var nuevo = new Carro()
-        }
+            var nuevo = new Carro();
+        } */
     }
 }

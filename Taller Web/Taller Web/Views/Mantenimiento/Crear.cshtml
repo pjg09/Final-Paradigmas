@@ -2,19 +2,23 @@
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 *@
 @{
+    ViewData["Title"] = "Registrar mantenimiento";
+
+    var carros = ViewBag.carros as IEnumerable<BibliotecaFinalParadigmas.Clases.Carro>;
 }
 <form asp-action="Crear" method="post">
     @*Carro carro, List<Mecanico> lista_mecanicos, List<Repuesto> lista_repuestos, List<Trabajo> lista_trabajos*@
     
-    @*TERMINAR PENDIENTE SANTIAGO*@
-    <label>ID</label>
-    <input type="text" name="id" class="form-control" required /><br />
-
-    <label>Nombre</label>
-    <input type="text" name="nombre" class="form-control" required /><br />
-
-    <label>Edad</label>
-    <input type="number" name="edad" class="form-control" required /><br />
+    <div>
+        <label for="Carro">Carro a realizar el mantenimiento</label>
+        <select name="idConductor" class="form-control" required>
+            <option value="">-- Seleccione un carro --</option>
+            @foreach (var c in carros ?? new List<BibliotecaFinalParadigmas.Clases.Carro>())
+            {
+                <option value="@c.Placa">@c.Marca - @c.Modelo</option>
+            }
+        </select>
+    </div>
 
     <button type="submit">Registrar</button>
 </form>

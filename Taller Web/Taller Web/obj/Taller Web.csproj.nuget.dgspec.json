@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pjgom\\OneDrive\\Desktop\\Paradigmas\\Final-Paradigmas\\Taller Web\\Taller Web\\Taller Web.csproj": {}
+    "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\Taller Web\\Taller Web\\Taller Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pjgom\\OneDrive\\Desktop\\Paradigmas\\Final-Paradigmas\\BibliotecaFinalParadigmas\\BibliotecaFinalParadigmas.csproj": {
+    "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\BibliotecaFinalParadigmas\\BibliotecaFinalParadigmas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Paradigmas\\Final-Paradigmas\\BibliotecaFinalParadigmas\\BibliotecaFinalParadigmas.csproj",
+        "projectUniqueName": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\BibliotecaFinalParadigmas\\BibliotecaFinalParadigmas.csproj",
         "projectName": "BibliotecaFinalParadigmas",
-        "projectPath": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Paradigmas\\Final-Paradigmas\\BibliotecaFinalParadigmas\\BibliotecaFinalParadigmas.csproj",
-        "packagesPath": "C:\\Users\\pjgom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Paradigmas\\Final-Paradigmas\\BibliotecaFinalParadigmas\\obj\\",
+        "projectPath": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\BibliotecaFinalParadigmas\\BibliotecaFinalParadigmas.csproj",
+        "packagesPath": "C:\\Users\\zyroc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\BibliotecaFinalParadigmas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\pjgom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\zyroc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -72,24 +71,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\pjgom\\OneDrive\\Desktop\\Paradigmas\\Final-Paradigmas\\Taller Web\\Taller Web\\Taller Web.csproj": {
+    "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\Taller Web\\Taller Web\\Taller Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Paradigmas\\Final-Paradigmas\\Taller Web\\Taller Web\\Taller Web.csproj",
+        "projectUniqueName": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\Taller Web\\Taller Web\\Taller Web.csproj",
         "projectName": "Taller Web",
-        "projectPath": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Paradigmas\\Final-Paradigmas\\Taller Web\\Taller Web\\Taller Web.csproj",
-        "packagesPath": "C:\\Users\\pjgom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Paradigmas\\Final-Paradigmas\\Taller Web\\Taller Web\\obj\\",
+        "projectPath": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\Taller Web\\Taller Web\\Taller Web.csproj",
+        "packagesPath": "C:\\Users\\zyroc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\Taller Web\\Taller Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\pjgom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\zyroc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -98,15 +97,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\pjgom\\OneDrive\\Desktop\\Paradigmas\\Final-Paradigmas\\BibliotecaFinalParadigmas\\BibliotecaFinalParadigmas.csproj": {
-                "projectPath": "C:\\Users\\pjgom\\OneDrive\\Desktop\\Paradigmas\\Final-Paradigmas\\BibliotecaFinalParadigmas\\BibliotecaFinalParadigmas.csproj"
+              "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\BibliotecaFinalParadigmas\\BibliotecaFinalParadigmas.csproj": {
+                "projectPath": "C:\\Users\\zyroc\\OneDrive\\Escritorio\\Final-Paradigmas\\BibliotecaFinalParadigmas\\BibliotecaFinalParadigmas.csproj"
               }
             }
           }
@@ -145,7 +143,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
