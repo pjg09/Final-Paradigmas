@@ -4,3 +4,38 @@
 @{
 }
 @model IEnumerable<BibliotecaFinalParadigmas.Clases.Mantenimiento>
+
+<h2>Mantenimientos</h2>
+
+<a class="btn btn-primary" asp-controller="Mantenimiento" asp-action="Crear">Nuevo mantenimiento</a>
+
+@if (Model != null && Model.Any())
+{
+    <table class="table table-bordered mt-3">
+        <thead>
+            <tr>
+                <th>Carro</th>
+                <th>valor del mantenimiento</th>
+                <th>Mecanico encargado del trabajo</th>
+                <th>Trabajos a realizar en el carro</th>
+                <th>Repuestos necesarios</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var c in Model)
+            {
+                <tr>
+                    @* <td>@c.</td> PENDIENTE INSTANCIAR CARRO PARA PODER VERLO EN MANTENIMIENTO*@
+                    <td>@c.ValorMantenimiento</td>
+                    <td>@c.Lista_mecanicos</td>
+                    <td>@c.Lista_trabajos</td>
+                    <td>@c.Lista_repuestos</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No hay mantenimientos registrados.</p>
+}
