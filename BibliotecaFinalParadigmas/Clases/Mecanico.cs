@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BibliotecaFinalParadigmas.Clases
 {
-    internal class Mecanico : Persona
+    public class Mecanico : Persona
     {
         //Atributos de control
         private byte longitudMinimaEspecialidad = 5;

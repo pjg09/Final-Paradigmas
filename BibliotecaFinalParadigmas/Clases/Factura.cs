@@ -7,7 +7,7 @@ using BibliotecaFinalParadigmas.Publishers;
 
 namespace BibliotecaFinalParadigmas.Clases
 {
-    internal class Factura
+    public class Factura
     {
         private static uint contadorIDs = 1;
         private static uint ID;
@@ -19,7 +19,7 @@ namespace BibliotecaFinalParadigmas.Clases
         private Carro carro;
 
         //Evento
-        public Publisher_SalidaCarro notificacion_salidaCarro; //PENDIENTE PEGAR AL PUBLISHER EN LA APLICACIÓN
+        public Publisher_SalidaCarro notificacion_salidaCarro;
 
         public Factura(uint ValorFactura, Carro carro)
         {

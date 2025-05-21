@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BibliotecaFinalParadigmas.Clases
 {
-    internal class Repuesto
+    public class Repuesto
     {
         //Atributos de control
         private readonly byte longitudMinimaNombre = 5, longitudMinimaProveedor = 5;

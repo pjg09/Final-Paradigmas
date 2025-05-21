@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BibliotecaFinalParadigmas.Clases
 {
-    internal class Trabajo
+    public class Trabajo
     {
         //Atributos de métodos
         private static byte contadorIDs = 1;
@@ -17,7 +17,6 @@ namespace BibliotecaFinalParadigmas.Clases
         public Trabajo()
         {
             id = contadorIDs;
-            contadorIDs++;
 
             switch(id)
             {
@@ -129,6 +128,8 @@ namespace BibliotecaFinalParadigmas.Clases
                     nombre = "Instalación de luces de ambiente";
                     break;
             }
+
+            contadorIDs++;
         }
 
         //Accesores

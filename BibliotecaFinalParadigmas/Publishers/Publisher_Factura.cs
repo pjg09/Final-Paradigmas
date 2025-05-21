@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BibliotecaFinalParadigmas.Publishers
 {
-    internal class Publisher_Factura
+    public class Publisher_Factura
     {
         //Delegado
         internal delegate Factura delegado_facturacion();

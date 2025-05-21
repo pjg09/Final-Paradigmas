@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BibliotecaFinalParadigmas.Clases
 {
-    internal class Gasolina : Carro
+    public class Gasolina : Carro
     {
         //Atributos de control
         private readonly ushort numeroMinCilindros = 3, numeroMaxCilindros = 16;

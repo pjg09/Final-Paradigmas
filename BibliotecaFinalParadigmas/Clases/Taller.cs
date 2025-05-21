@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BibliotecaFinalParadigmas.Clases
 {
-    internal class Taller
+    public class Taller
     {
         private readonly byte longitudMinimaNombre = 4, cantidadMinimaListas = 1;
 
@@ -16,11 +16,16 @@ namespace BibliotecaFinalParadigmas.Clases
         private string? nombre;
         public Publisher_IngresoCarro notificacion_ingresoCarro;
 
-        public Taller(string? nombre)
+        public Taller(string nombre)
         {
             Nombre = nombre;
             lista_mantenimientos = new List<Mantenimiento>();
             lista_facturas = new List<Factura>();
+
+            for (byte i = 1; i <= 28; i++)
+            {
+                new Trabajo();
+            }
         }
 
         public string? Nombre { get => nombre;

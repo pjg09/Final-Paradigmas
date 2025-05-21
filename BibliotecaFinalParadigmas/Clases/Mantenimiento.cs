@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BibliotecaFinalParadigmas.Clases
 {
-    internal class Mantenimiento
+    public class Mantenimiento
     {
         //Atributos de control
         private readonly uint valorMinimoMantenimiento = 10000;

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BibliotecaFinalParadigmas.Clases
 {
-    internal class Electrico : Carro
+    public class Electrico : Carro
     {
         //Atributos de control
         private readonly short autonomiaMin = 200, autonomiaMax = 1000;

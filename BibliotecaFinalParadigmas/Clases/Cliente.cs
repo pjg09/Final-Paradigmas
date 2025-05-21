@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BibliotecaFinalParadigmas.Clases
 {
-    internal class Cliente : Persona
+    public class Cliente : Persona
     {
         //Atributos de usuario
         private bool credito;

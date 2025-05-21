@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BibliotecaFinalParadigmas.Clases
 {
-    internal class Hibrido : Carro
+    public class Hibrido : Carro
     {
         //Atributos de control
         private readonly byte numeroMinBaterias = 1, numeroMaxBaterias = 8;

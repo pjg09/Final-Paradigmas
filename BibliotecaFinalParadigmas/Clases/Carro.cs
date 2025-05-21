@@ -7,7 +7,7 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace BibliotecaFinalParadigmas.Clases
 {
-    internal class Carro
+    public class Carro
     {
         //Atributos de control
         private readonly byte longPlaca = 6, longMinMarca = 3, longMinModelo = 3;

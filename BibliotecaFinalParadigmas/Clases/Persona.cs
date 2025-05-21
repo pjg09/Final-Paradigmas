@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BibliotecaFinalParadigmas.Clases
 {
-    internal abstract class Persona
+    public abstract class Persona
     {
         private static byte contadorIDs = 1;
         private static byte id;
