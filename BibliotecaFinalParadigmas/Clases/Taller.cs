@@ -13,18 +13,20 @@ namespace BibliotecaFinalParadigmas.Clases
 
         private List<Mantenimiento> lista_mantenimientos;
         private List<Factura> lista_facturas;
+        private List<Trabajo> lista_trabajos;
         private string? nombre;
         public Publisher_IngresoCarro notificacion_ingresoCarro;
 
-        public Taller(string nombre)
+        public Taller()
         {
             Nombre = nombre;
             lista_mantenimientos = new List<Mantenimiento>();
             lista_facturas = new List<Factura>();
+            lista_trabajos = new List<Trabajo>();
 
             for (byte i = 1; i <= 28; i++)
             {
-                new Trabajo();
+                lista_trabajos.Add(new Trabajo());
             }
         }
 
@@ -36,6 +38,12 @@ namespace BibliotecaFinalParadigmas.Clases
 
         public List<Factura> Lista_facturas { get => lista_facturas;
             set => lista_facturas = value.Count >= cantidadMinimaListas ? value : throw new Exception("Error: La lista de mecanicos no puede estar vacía"); }
+
+        public List<Trabajo> Lista_trabajos
+        {
+            get => lista_trabajos;
+            set => lista_trabajos = value.Count >= cantidadMinimaListas ? value : throw new Exception("Error: La lista de mecanicos no puede estar vacía");
+        }
 
         internal void EventHandler() { }
 
